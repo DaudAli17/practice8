@@ -142,3 +142,108 @@
   line-height: 0.5rem;
   margin-left: 22.5%;
 }
+.footer{
+  background-color: rgb(0, 47, 141);
+  width: 100.8vw;
+  margin-top: 10rem;
+  color: white;
+}
+.about{
+  padding-top: 5rem;
+  margin-left: 5rem;
+}
+.about h2{
+  font-weight: 600;
+  margin-left: 1rem;
+  font-size: 1.9rem;
+  line-height: 3rem;
+}
+.about p{
+  font-size: 0.8rem;
+  width: 70%;
+  font-weight: 450;
+  color: rgb(213, 213, 213);
+}
+.about i{
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+  line-height: 3rem;
+  margin-right: 1rem;
+}
+
+.useful h5 a{
+  color: white;
+  text-decoration: none;
+  font-weight: 450;
+  font-size: 0.9rem;
+}
+
+.useful h2{
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 3rem;
+}
+.useful i{
+  font-size: 1rem;
+  margin-right: 0.3rem;
+}
+.useful{
+  padding-top: 5rem;
+  margin-left: 5rem;
+}
+
+.subscribe h5 a{
+  color: white;
+  text-decoration: none;
+  font-weight: 450;
+  font-size: 0.9rem;
+}
+
+.subscribe h2{
+  font-weight: 600;
+  font-size: 1.9rem;
+  line-height: 2.5rem;
+  width: 30rem;
+}
+.subscribe i{
+  font-size: 1rem;
+  margin-right: 0.3rem;
+}
+.subscribe{
+  padding-top: 5rem;
+  margin-left: 5rem;
+}
+.subscribe input{
+  border-radius: 0;
+  margin-top: 5%;
+  width: 15rem;
+}
+.subscribe ::placeholder{
+  color: rgba(60, 60, 60, 0.523);
+}
+.subscribe i{
+  font-size: 2rem;
+  margin-top: 5%;
+}
+
+.subscribe i:hover{
+  cursor: pointer;
+}
+.copyright {
+  color: white;
+  background-color: rgb(0, 15, 57);
+  height: 3rem;
+}
+.copyright h2{
+  font-size: 1rem;
+  font-weight: 300;
+  padding-top: 1rem;
+
+}
+
+#back-to-top{
+  position: fixed;
+  z-index: 999;
+  bottom: 10px;
+  right: 10px;
+}
